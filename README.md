@@ -20,3 +20,13 @@ Error Handling: It handles invalid inputs gracefully and prompts the user to ent
 Efficient Algorithm: The program uses a simple algorithm to determine the type of berth based on the berth number, ensuring efficiency and accuracy.
 Contributions
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request.
+
+SCREENSHOTS:
+
+![Screenshot (258)](https://github.com/hari-priya-06/Train_berth_Allocator/assets/160275017/c1a4273d-e0b8-40f8-85a1-3e874f01290f)
+
+
+![Screenshot (257)](https://github.com/hari-priya-06/Train_berth_Allocator/assets/160275017/085fcbd2-b12b-4280-9eaf-ad76e601fef5)
+
+![Screenshot (256)](https://github.com/hari-priya-06/Train_berth_Allocator/assets/160275017/5876ab57-c003-48da-a54d-5493acd0fb83)
+
