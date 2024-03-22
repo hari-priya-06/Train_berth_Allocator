@@ -1,6 +1,3 @@
-# Train_berth_Allocator
-Train Berth Allocator is a simple program that helps passengers determine their berth allocation in a sleeper coach train.
-
 # Train Berth Allocator
 
 Train Berth Allocator is a simple C program designed to help passengers find their berth allocation in a sleeper coach train. It takes a berth number as input and outputs the corresponding type of berth.
@@ -12,6 +9,7 @@ Train Berth Allocator is a simple C program designed to help passengers find the
    gcc train_berth_allocator.c -o train_berth_allocator
 1.Run the Program: Execute the compiled program:
 ./train_berth_allocator
+
 2.Enter Berth Number: Follow the instructions on the screen to enter the berth number. The program will prompt you to enter a berth number between 1 and 72.
 
 3.View Berth Allocation: After entering the berth number, the program will display the corresponding type of berth.
